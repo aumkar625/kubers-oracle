@@ -1,0 +1,8 @@
+python3 -m venv alakapuri
+source alakapuri/bin/activate
+pip install -r requirements.txt
+mkdir src
+mkdir data
+mkdir notebooks
+mkdir configs
+
